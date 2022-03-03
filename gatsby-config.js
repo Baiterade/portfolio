@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Professional portfolio built using gatsby :) `,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
     author: `Jager Overson`,
   },
   plugins: [
@@ -36,12 +36,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/banner.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/banner.png`,
             sizes: `512x512`,
             type: `image/png`,
           },

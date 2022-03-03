@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
+  "name": "jager-portfolio",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Jager Overson",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "joverson-portfolio",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
